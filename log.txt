@@ -1,0 +1,6 @@
+Superuser added:
+Id: 40087a7c-25f8-4ec7-a8dc-550bfc7a8bd0
+Username: superadmin
+Email: superadmin@example.com
+Role: superuser
+Password: 50d7dcbd1d444373ac786b605c9258be
